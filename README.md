@@ -215,5 +215,3 @@ For questions or feedback, please reach out to [kjcodes2002@gmail.com]
 - [NativeWind Documentation](https://www.nativewind.dev/)
 
 ---
-
-Made with ❤️ by [Your Name]
